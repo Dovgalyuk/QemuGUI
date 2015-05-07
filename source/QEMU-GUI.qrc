@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/toolbar">
+        <file>icons/Pause-Disabled-icon.png</file>
+        <file>icons/Pause-Hot-icon.png</file>
+        <file>icons/Pause-Normal-icon.png</file>
+        <file>icons/Pause-Normal-Red-icon.png</file>
+        <file>icons/Pause-Pressed-icon.png</file>
+        <file>icons/Play-1-Disabled-icon.png</file>
+        <file>icons/Play-1-Hot-icon.png</file>
+        <file>icons/Play-1-Normal-icon.png</file>
+        <file>icons/Play-1-Normal-Red-icon.png</file>
+        <file>icons/Play-1-Pressed-icon.png</file>
+        <file>icons/Record-Disabled-icon.png</file>
+        <file>icons/Record-Hot-icon.png</file>
+        <file>icons/Record-Normal-icon.png</file>
+        <file>icons/Record-Normal-Red-icon.png</file>
+        <file>icons/Record-Pressed-icon.png</file>
+        <file>icons/Stop-Disabled-icon.png</file>
+        <file>icons/Stop-Hot-icon.png</file>
+        <file>icons/Stop-Normal-icon.png</file>
+        <file>icons/Stop-Pressed-icon.png</file>
+        <file>icons/add-icon.png</file>
+        <file>icons/delete-icon.png</file>
+        <file>icons/settings-icon.png</file>
+        <file>icons/Computer-icon.png</file>
+    </qresource>
+</RCC>
