@@ -1,4 +1,4 @@
-#include "conftreewidget.h"
+#include "ConfTreeWidget.h"
 #include "ReplayOptionsDialog.h"
 
 ConfTreeWidget::ConfTreeWidget(QWidget *parent) :

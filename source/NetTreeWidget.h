@@ -5,7 +5,7 @@
 #include <QHeaderView>
 #include <QMenu>
 #include <QScrollBar>
-#include "qdnetconfiguration.h"
+#include "QDNetConfiguration.h"
 #include "VMProperties.h"
 
 class NetTreeWidget : public QTreeWidget

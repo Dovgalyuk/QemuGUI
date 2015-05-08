@@ -1,4 +1,4 @@
-#include "qdsetname.h"
+#include "QDSetName.h"
 
 QDSetName::QDSetName(const QString &name, QWidget *parent) :
     QDialog(parent)

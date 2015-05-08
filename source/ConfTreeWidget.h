@@ -8,8 +8,8 @@
 #include <QMessageBox>
 
 #include "QEMUSettings.h"
-#include "qdsetname.h"
-#include "qddeleteobject.h"
+#include "QDSetName.h"
+#include "QDDeleteObject.h"
 #include "VMProperties.h"
 
 class ConfTreeWidget : public QTreeWidget

@@ -1,4 +1,4 @@
-#include "lineeditwithlabel.h"
+#include "LineEditWithLabel.h"
 
 LineEditWithLabel::LineEditWithLabel(const QString &textLabel, QWidget *parent) :
     QWidget(parent)

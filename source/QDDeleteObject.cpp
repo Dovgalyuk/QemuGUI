@@ -1,4 +1,4 @@
-#include "qddeleteobject.h"
+#include "QDDeleteObject.h"
 
 QDDeleteObject::QDDeleteObject(const QString& name, QWidget *parent) :
     QDialog(parent)

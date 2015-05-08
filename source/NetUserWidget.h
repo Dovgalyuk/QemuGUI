@@ -5,9 +5,9 @@
 #include <QLabel>
 #include <QLineEdit>
 #include <QPushButton>
-#include "lineeditwithlabel.h"
-#include "checkboxwithlabel.h"
-#include "netabstractwidget.h"
+#include "LineEditWithLabel.h"
+#include "CheckBoxWithLabel.h"
+#include "NetAbstractWidget.h"
 
 class NetUserWidget : public NetAbstractWidget
 {

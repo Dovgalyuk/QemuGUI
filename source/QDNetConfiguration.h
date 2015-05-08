@@ -4,9 +4,9 @@
 #include <QDialog>
 #include <QLayout>
 #include <QPushButton>
-#include "netnicwidget.h"
-#include "nettapwidget.h"
-#include "netuserwidget.h"
+#include "NetNicWidget.h"
+#include "NetTapWidget.h"
+#include "NetUserWidget.h"
 
 class QDNetConfiguration : public QDialog
 {

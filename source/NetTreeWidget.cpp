@@ -1,4 +1,4 @@
-#include "nettreewidget.h"
+#include "NetTreeWidget.h"
 
 NetTreeWidget::NetTreeWidget(QWidget *parent) :
     QTreeWidget(parent), vlanCount(0)

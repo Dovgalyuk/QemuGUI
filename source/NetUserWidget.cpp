@@ -1,4 +1,4 @@
-#include "netuserwidget.h"
+#include "NetUserWidget.h"
 
 NetUserWidget::NetUserWidget(QWidget *parent) :
     NetAbstractWidget(parent)

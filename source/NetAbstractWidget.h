@@ -8,7 +8,7 @@
 #include <QPushButton>
 #include <QStringList>
 #include <QMessageBox>
-#include "checkboxwithlabel.h"
+#include "CheckBoxWithLabel.h"
 #include <QSettings>
 
 class NetAbstractWidget : public QGroupBox

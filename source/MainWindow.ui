@@ -443,12 +443,12 @@
   <customwidget>
    <class>QTableViewCheckBox</class>
    <extends>QTableView</extends>
-   <header>qtableviewcheckbox.h</header>
+   <header>QTableViewCheckBox.h</header>
   </customwidget>
   <customwidget>
    <class>ConfTreeWidget</class>
    <extends>QTreeWidget</extends>
-   <header>conftreewidget.h</header>
+   <header>ConfTreeWidget.h</header>
   </customwidget>
  </customwidgets>
  <resources>

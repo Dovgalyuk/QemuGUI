@@ -1,4 +1,4 @@
-#include "netnicwidget.h"
+#include "NetNicWidget.h"
 
 NetNicWidget::NetNicWidget(QWidget *parent) :
     NetAbstractWidget(parent)

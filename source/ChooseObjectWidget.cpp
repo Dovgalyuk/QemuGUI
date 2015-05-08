@@ -1,4 +1,4 @@
-#include "chooseobjectwidget.h"
+#include "ChooseObjectWidget.h"
 
 ChooseObjectWidget::ChooseObjectWidget(QWidget *parent) :
     QGroupBox(parent)

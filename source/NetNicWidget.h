@@ -6,9 +6,9 @@
 #include <QComboBox>
 #include <QPushButton>
 #include <QStringList>
-#include "lineeditwithlabel.h"
-#include "netabstractwidget.h"
-#include "checkboxwithlabel.h"
+#include "LineEditWithLabel.h"
+#include "NetAbstractWidget.h"
+#include "CheckBoxWithLabel.h"
 
 class NetNicWidget : public NetAbstractWidget
 {

@@ -165,7 +165,7 @@
   <customwidget>
    <class>ChooseObjectWidget</class>
    <extends>QGroupBox</extends>
-   <header>chooseobjectwidget.h</header>
+   <header>ChooseObjectWidget.h</header>
    <container>1</container>
   </customwidget>
  </customwidgets>

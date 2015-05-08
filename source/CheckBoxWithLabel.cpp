@@ -1,4 +1,4 @@
-#include "checkboxwithlabel.h"
+#include "CheckBoxWithLabel.h"
 
 CheckBoxWithLabel::CheckBoxWithLabel(QString textLabel, QWidget *parent) :
     QWidget(parent)

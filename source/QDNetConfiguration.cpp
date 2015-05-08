@@ -1,4 +1,4 @@
-#include "qdnetconfiguration.h"
+#include "QDNetConfiguration.h"
 
 QDNetConfiguration::QDNetConfiguration(const QString &title, int mode, const QString &widgetSettings, QWidget *parent) :
     QDialog(parent), netNic(NULL), netTap(NULL), netUser(NULL)

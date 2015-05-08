@@ -1,4 +1,4 @@
-#include "qtableviewcheckbox.h"
+#include "QTableViewCheckBox.h"
 
 QTableViewCheckBox::QTableViewCheckBox(QWidget *parent) :
     QTableView(parent)

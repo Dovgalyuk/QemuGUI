@@ -5,7 +5,7 @@
 #include <QLineEdit>
 #include <QPushButton>
 #include <QFileDialog>
-#include "checkboxwithlabel.h"
+#include "CheckBoxWithLabel.h"
 
 class ChooseObjectWidget : public QGroupBox
 {

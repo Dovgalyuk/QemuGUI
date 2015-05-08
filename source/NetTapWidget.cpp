@@ -1,4 +1,4 @@
-#include "nettapwidget.h"
+#include "NetTapWidget.h"
 
 NetTapWidget::NetTapWidget(QWidget *parent) :
     NetAbstractWidget(parent)

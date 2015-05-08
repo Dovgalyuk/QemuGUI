@@ -1,4 +1,4 @@
-#include "netabstractwidget.h"
+#include "NetAbstractWidget.h"
 
 NetAbstractWidget::NetAbstractWidget(QWidget *parent) :
     QGroupBox(parent)

@@ -317,7 +317,7 @@
   <customwidget>
    <class>NetTreeWidget</class>
    <extends>QTreeWidget</extends>
-   <header>nettreewidget.h</header>
+   <header>NetTreeWidget.h</header>
   </customwidget>
  </customwidgets>
  <resources/>
